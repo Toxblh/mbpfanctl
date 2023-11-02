@@ -1,6 +1,13 @@
 Mac Fan Controls in Linux
 ---
 
+# Before we start
+
+Need to install 
+`mbpfan`
+and once start it to control fan's `sudo mbpfan`
+
+# Usage
 Get current status
 `python3 ./main.py get`
 
